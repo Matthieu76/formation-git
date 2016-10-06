@@ -1,4 +1,4 @@
-function myMove() {
+var myMove = function() {
 
     var elem = document.getElementById("myAnimation");
     var pos = 0;
